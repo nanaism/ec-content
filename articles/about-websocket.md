@@ -1,5 +1,5 @@
 ---
-title: "WebSocketとは？"
+title: "Socket.ioとは？Next.jsでリアルタイム通信を実現する基礎知識"
 emoji: "📡"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "websocket", "socketio", "realtime"]

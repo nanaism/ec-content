@@ -1,5 +1,5 @@
 ---
-title: "Stripe とは？"
+title: "Stripe とは？Next.jsアプリにオンライン決済を安全・簡単に導入"
 emoji: "💳"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "stripe", "payment"]

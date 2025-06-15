@@ -1,5 +1,5 @@
 ---
-title: "Framer Motionとは？"
+title: "Framer Motionとは？Next.jsでリッチなアニメーションを驚くほど簡単に。"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "react", "animation", "framermotion"]
