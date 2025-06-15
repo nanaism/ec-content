@@ -1,6 +1,6 @@
 ---
 title: "NextAuth.js とは？Next.jsアプリに認証機能を簡単実装"
-emoji: "🌟"
+emoji: "✅"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "nextauth", "authjs"]
 published: true
