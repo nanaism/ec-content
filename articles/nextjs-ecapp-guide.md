@@ -4,7 +4,7 @@ emoji: "🐈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "stripe", "nextauth"]
 published: true
-price: 1200
+price: 200
 ---
 
 ## はじめに
