@@ -1,0 +1,6 @@
+title: ReactとFramer Motionで作る、魔法のようなWebアニメーション
+summary: ReactとFramer Motionを使って、魅力的なWebアニメーションを手軽に実装する方法を学びます。初心者から中級者向けのハンズオン形式で、実際のプロジェクトを通じてスキルを磨きましょう。
+topics: ["React", "Framer Motion", "Animation", "UI", "JavaScript"]
+published: true
+price: 100 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
