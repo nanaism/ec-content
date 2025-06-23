@@ -1,0 +1,13 @@
+title: Next.jsとSocket.ioで作るリアルタイムアプリケーション入門
+summary: Next.jsとSocket.ioを使って、リアルタイム機能を持つWebアプリケーションを手軽に実装する方法を学びます。
+topics:
+  [
+    "Next.js",
+    "Socket.io",
+    "リアルタイム通信",
+    "Webアプリケーション",
+    "JavaScript",
+  ]
+published: true
+price: 100 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
