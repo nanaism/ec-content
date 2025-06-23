@@ -1,6 +1,6 @@
 ---
 title: "Next.js + Prisma入門：型安全なWebアプリ開発の始め方"
-emoji: "🚀"
+emoji: "❄️"
 type: "tech"
 topics: ["nextjs", "prisma", "typescript", "orm"]
 published: true
@@ -37,7 +37,6 @@ const user = await prisma.user.findUnique({
 
 ## Prisma入門：次世代のORM
 
-![Prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/prisma-stack-dark.png)
 
 Prismaは、Node.jsとTypeScript向けの「次世代ORM」と呼ばれています。他のORMと比較して、特に**型安全性**と**開発者体験（DX）**に重点を置いているのが大きな特徴です。
 
